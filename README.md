@@ -1,4 +1,4 @@
-# Red Cross Database Project – CSC/BIF 375
+# Red Cross Database Project – CSC 375
 
 This project, developed by the "Dedicate Keys" team for the Lebanese American University, aims to design and implement a comprehensive relational database system for the Red Cross. The database supports the organization's vital activities, including managing donors, patients, volunteers, disaster events, training programs, medical supplies, and emergency requests.
 
